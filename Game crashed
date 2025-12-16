@@ -1,0 +1,62 @@
+Game Crashed! I have fallen and I can't get up! If this has happened more than once then please copy the text on this screen and publish it in the #debugging channel in the official Eaglercraft discord server
+
+Join the discord server at: https://discord.gg/Ekzcgs3DKZ
+
+Decode this crash report at: https://deev.is/tools/crash-viewer/eagler-1.5.2/
+
+The URL to this fork's GitHub repository is: https://github.com/lax1dude/eaglercraft
+
+java.lang.RuntimeException: broken shader file
+
+Error: Java exception thrown
+    at $rt_exception (file:///media/fuse/drivefs-74be907c3237576128b5cec25a45a455/root/1.5.2.html:154:390)
+    at $rt_throw (file:///media/fuse/drivefs-74be907c3237576128b5cec25a45a455/root/1.5.2.html:154:218)
+    at Bn8 (file:///media/fuse/drivefs-74be907c3237576128b5cec25a45a455/root/1.5.2.html:8799:18)
+    at A.AYa (file:///media/fuse/drivefs-74be907c3237576128b5cec25a45a455/root/1.5.2.html:8793:81)
+    at AXE (file:///media/fuse/drivefs-74be907c3237576128b5cec25a45a455/root/1.5.2.html:8795:350)
+    at AOq (file:///media/fuse/drivefs-74be907c3237576128b5cec25a45a455/root/1.5.2.html:3855:30)
+    at BrP (file:///media/fuse/drivefs-74be907c3237576128b5cec25a45a455/root/1.5.2.html:3858:308)
+    at Bv (file:///media/fuse/drivefs-74be907c3237576128b5cec25a45a455/root/1.5.2.html:7584:207)
+    at Ip (file:///media/fuse/drivefs-74be907c3237576128b5cec25a45a455/root/1.5.2.html:4538:365)
+    at BJB (file:///media/fuse/drivefs-74be907c3237576128b5cec25a45a455/root/1.5.2.html:7726:457)
+
+eaglercraft.version = "22w43a"
+eaglercraft.minecraft = "1.5.2"
+eaglercraft.brand = "lax1dude"
+eaglercraft.username = "eagler0008"
+
+webgl.version = WebGL 2.0 ()
+webgl.renderer = 
+webgl.vendor = 
+
+webgl.anisotropicGlitch = true
+
+window.eaglercraftOpts = {"container":"game_frame","relays":[{"addr":"wss://relay.deev.is/","primary":false,"name":"lax1dude relay #1"},{"addr":"wss://relay.lax1dude.net/","primary":false,"name":"lax1dude relay #2"},{"addr":"wss://relay.shhnowisnottheti.me/","primary":true,"name":"ayunami relay #1"}],"mainMenu":{"splashes":["Darviglet!","eaglerenophile!","You Eagler!","Yeeeeeee!","yeee","EEEEEEEEE!","You Darvig!","You Vigg!",":>","|>","You Yumpster!"]},"assetsURI":"data:application/octet-stream;base64,RUFHUEtHJCQGdmVyMi4wCmFzc2V0cy5lcGsAVgoKICMgIEVhZ2xlciBFUEsgdjIuMCAoYykgMjAyMiBDYWxkZXIgWW91bmcKICMgIHVwZGF0ZTogb24gMTAvMTcvMjAyMiBhdCAwNDozOTo0NyBQTQoKAAABg+hRVOIAAAVRRx+LCAAAAAAAAv/svHV4Fle3Nv4QLHjw4AQCRQYYn9lAg0uA8AK ... ","serverWorkerURI":"blob:null/ca0236d0-3dbc-418a-b084-27334c8bdd2c","worldsFolder":"OFFLINE"}
+
+window.navigator.userAgent = Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+window.navigator.vendor = Google Inc.
+window.navigator.language = en-US
+window.navigator.hardwareConcurrency = 4
+window.navigator.deviceMemory = 4
+window.navigator.platform = Linux x86_64
+window.navigator.product = Gecko
+
+rootElement.clientWidth = 1366
+rootElement.clientHeight = 599
+window.innerWidth = 1366
+window.innerHeight = 599
+window.outerWidth = 1366
+window.outerHeight = 720
+window.devicePixelRatio = 1
+window.screen.availWidth = 1366
+window.screen.availHeight = 720
+window.screen.colorDepth = 24
+window.screen.pixelDepth = 24
+
+window.location.href = file:///media/fuse/drivefs-74be907c3237576128b5cec25a45a455/root/1.5.2.html
+
+----- Begin Minecraft Config -----
+CgAAAA==
+----- End Minecraft Config -----
+
+window.minecraftServer = undefined
